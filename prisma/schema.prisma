@@ -19,3 +19,12 @@ model User {
 
   createdAt    DateTime @default(now())
 }
+
+model VoiceMessage {
+  id         String   @id @default(uuid())
+  senderId   String
+  receiverId String
+  audioUrl   String
+  duration   Int
+  createdAt  DateTime @default(now())
+}

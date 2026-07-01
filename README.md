@@ -96,3 +96,19 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# FeoMiafina
+
+Plateforme de messages vocaux anonymes.
+
+## Stack
+
+- ReactJS
+- NestJS
+- PostgreSQL
+- Prisma
+- JWT
+
+## Auteur
+
+

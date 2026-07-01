@@ -56,3 +56,26 @@ pids
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 /generated/prisma
+
+# dependencies
+node_modules
+
+# environment
+.env
+
+# logs
+logs
+*.log
+
+# build
+dist
+build
+
+# vscode
+.vscode
+
+# OS
+.DS_Store
+Thumbs.db
+
+
